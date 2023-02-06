@@ -1,1 +1,1 @@
-# react-list-offline
+REACT OFFLINE LIST with React and Dexie.js
